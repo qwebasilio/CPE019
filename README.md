@@ -1,6 +1,6 @@
 Hello and welcome! <br>
 My name is **Wilhelm Elian O. Basilio** <br>
-I'm a 3rd Year student at the **Technological Institute of the Philippines**. <br>
+I'm a **3rd Year Computer Engineering** student at the **Technological Institute of the Philippines**. <br>
 This repository is created for our course **CPE019 - Emerging Technologies 2 in CPE** <br>
 
 ```plaintext
